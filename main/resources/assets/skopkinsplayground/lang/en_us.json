@@ -2,5 +2,11 @@
 	"item.skopkinsplayground.testrite_ingot_item": "Testrite Ingot",
 	"item.skopkinsplayground.testrite_nugget_item": "Testrite Nugget",
 
+	"item.skopkinsplayground.testrite_axe": "Testrite Axe",
+	"item.skopkinsplayground.testrite_hoe": "Testrite Hoe",
+	"item.skopkinsplayground.testrite_pickaxe": "Testrite Pickaxe",
+	"item.skopkinsplayground.testrite_shovel": "Testrite Shovel",
+	"item.skopkinsplayground.testrite_sword": "Testrite Sword",
+
 	"block.skopkinsplayground.testrite_ore": "Testrite Ore"
 }
